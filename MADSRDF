@@ -1,0 +1,4 @@
+a madsrdf:Authority, madsrdf:PersonalName  rdf:about="http://id.kb.se/XXXXX" ,
+madsrdf:AuthoritaveLabel "Strindberg, August,1849-1912" @sw,
+madsrdf:RWO 
+
