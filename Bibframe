@@ -1,3 +1,35 @@
 
+@prefix kbv: <https://id.kb.se/vocab/> .
+@prefix <http://id.loc.gov/ontologies/bibframe>.
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix carrier: <https://id.kb.se/enum/marc/carrier/> .
+@prefix content: <https://id.kb.se/enum/marc/content/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dctype: <http://purl.org/dc/dcmitype/> .
+@prefix edtf: <http://id.loc.gov/datatypes/edtf/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix l: <http://w3id.org/libris/logic/> .
+@prefix mads: <http://www.loc.gov/mads/rdf/v1#> .
+@prefix marc: <https://id.kb.se/marc/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sdo: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+
+
+a bf:resource  <http://id.kb.se/xxxx> , bf:person,
+rdfs:label "Strindberg, August, 1849-1912" @"sw" ,
+foaf:focus 
+
+
+
 
 <foaf:name xml:lang="sw">August Strindberg</foaf:name>
